@@ -1,1 +1,1 @@
-Welcome to Tindog
+Welcome to Tindog.
